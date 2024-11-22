@@ -38,7 +38,10 @@ I'm an adventurous Software Engineer with a passion for developing meaningful pr
 
 ## 🤝 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/adriel-ang-640047204)
+<a href="https://www.linkedin.com/in/adriel-ang-640047204" target="blank">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" width="26" height="26" />
+</a>
+- [Linked In Profile]
 
 ---
 
