@@ -6,7 +6,7 @@ I'm an adventurous Software Engineer with a passion for developing meaningful pr
 
 ## 👾 About Me 
 
-- 🗂️ I’m currently working on **[AllThingsKorea]**
+- 🗂️ I’m currently working on **[Makanmaps]** and **[MossBoss's Website]**
 - 🌱 I’m learning about **dApp Development & Blockchain**
 - 🤿 Fun Fact: I enjoy open-water diving!
 
