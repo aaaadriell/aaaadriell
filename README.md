@@ -6,8 +6,8 @@ I'm an adventurous Software Engineer with a passion for developing meaningful pr
 
 ## 👾 About Me 
 
-- 🗂️ I’m currently working on **[Makanmaps]** and **[MossBoss's Website]**
-- 🌱 I’m learning about **dApp Development & Blockchain**
+- 🗂️ I’m currently working on **[AI Code Review Assistant]**
+- 🌱 I’m learning more about **AI-Powered Softwares**
 - 🤿 Fun Fact: I enjoy open-water diving!
 
 ---
